@@ -1,0 +1,107 @@
+Building,Room,Capacity,Computers Available,Seating Available,Seating Type,Food Allowed,Priority,Room Type
+Forcina,403,30,Yes,Large Tables with Chairs,Level,No,Computer Science,Computer Lab
+BSC,100,800,No,Chairs,Level,Yes,Administration,Event Center
+Science,101,-500,No,Round Tables,Level,Yes,Biology,Classroom
+Engineering,201,40,Yes,Individual Desks,Tiered,No,Engineering,Computer Lab
+BSC,496,161,No,Large tables,Tiered,Yes,Engineering,Study Room
+BSC,496,161,No,Various Seating Options,Tiered,Yes,Engineering,Study Room
+Chemistry,160,511,No,Various Seating Options,Tiered,No,Chemistry,Computer Lab
+Math,105,798,No,Various Seating Options,Level,Yes,Administration,Computer Lab
+Forcina,377,119,Yes,Various Seating Options,Tiered,No,Biology,Conference Room
+Physics,278,640,No,Various Seating Options,Tiered,No,Computer Science,Conference Room
+Chemistry,260,456,No,Various Seating Options,Level,No,Math,Study Room
+Chemistry,274,91,Yes,Various Seating Options,Level,No,Biology,Event Center
+Social Sciences,483,143,Yes,Various Seating Options,Tiered,No,Computer Science,Classroom
+BSC,290,372,Yes,Various Seating Options,Level,No,Administration,Study Room
+BSC,486,-388,Yes,Various Seating Options,Tiered,Yes,Administration,Classroom
+Physics,106,41,No,Various Seating Options,Circled,Yes,Social Sciences,Classroom
+Armstrong,139,373,No,Various Seating Options,Level,Yes,Biology,Conference Room
+Forcina,210,470,Maybe,Various Seating Options,Level,Yes,Math,Classroom
+Math,500,563,Yes,Various Seating Options,Tiered,Yes,Social Sciences,Study Room
+Forcina,196,742,No,Various Seating Options,Level,No,Administration,Conference Room
+Social Sciences,314,370,No,Various Seating Options,Tiered,No,Physics,Study Room
+BSC,416,30,No,Various Seating Options,Level,No,Social Sciences,Classroom
+Chemistry,407,80,No,Various Seating Options,Tiered,Yes,Math,Study Room
+Physics,372,732,No,Various Seating Options,Level,No,Computer Science,Computer Lab
+Physics,385,659,No,Various Seating Options,Tiered,Yes,Administration,Classroom
+Social Sciences,315,797,No,Various Seating Options,Tiered,No,Engineering,Event Center
+Armstrong,363,730,Yes,Various Seating Options,Level,No,Computer Science,Computer Lab
+BSC,342,777,Yes,Various Seating Options,Level,No,Math,Conference Room
+STEM,410,130,Yes,Various Seating Options,Tiered,Yes,Biology,Event Center
+Math,461,518,Yes,Various Seating Options,Tiered,Yes,Biology,Event Center
+BSC,248,-59,Yes,Various Seating Options,Circled,No,Engineering,Conference Room
+Chemistry,471,181,Maybe,Various Seating Options,Level,Yes,Computer Science,Study Room
+Forcina,146,410,Yes,Various Seating Options,Level,Yes,Computer Science,Conference Room
+Social Sciences,249,230,Yes,Various Seating Options,Level,Yes,Physics,Computer Lab
+Armstrong,312,490,Yes,Various Seating Options,Tiered,No,Physics,Study Room
+Social Sciences,371,326,No,Various Seating Options,Level,No,Chemistry,Study Room
+Armstrong,437,555,Yes,Various Seating Options,Level,No,Physics,Event Center
+Physics,254,350,No,Various Seating Options,Level,Yes,Social Sciences,Event Center
+Social Sciences,457,476,No,Various Seating Options,Tiered,No,Chemistry,Computer Lab
+Physics,288,543,No,Various Seating Options,Tiered,No,Math,Classroom
+Math,164,238,Yes,Various Seating Options,Level,No,Social Sciences,Study Room
+Math,222,320,Yes,Various Seating Options,Level,No,Computer Science,Computer Lab
+Chemistry,-157,639,No,Various Seating Options,Level,Yes,Chemistry,Event Center
+Math,198,730,Yes,Various Seating Options,Level,No,Engineering,Study Room
+Chemistry,249,121,No,Various Seating Options,Level,No,Chemistry,Computer Lab
+STEM,172,439,Yes,Various Seating Options,Level,Yes,Computer Science,Computer Lab
+BSC,235,116,No,Various Seating Options,Level,Yes,Chemistry,Computer Lab
+Math,104,153,No,Various Seating Options,Level,Yes,Social Sciences,Conference Room
+Physics,246,497,No,Various Seating Options,Level,No,Social Sciences,Event Center
+Chemistry,344,407,No,Various Seating Options,Level,No,Computer Science,Conference Room
+Chemistry,-400,380,Yes,Various Seating Options,Tiered,Yes,Engineering,Event Center
+Social Sciences,392,441,Yes,Various Seating Options,Tiered,Yes,Physics,Computer Lab
+STEM,334,687,Yes,Various Seating Options,Level,No,Chemistry,Conference Room
+BSC,484,676,Yes,Various Seating Options,Tiered,Yes,Engineering,Classroom
+Social Sciences,285,651,No,Various Seating Options,Level,Yes,Chemistry,Classroom
+Forcina,462,257,No,Various Seating Options,Level,Yes,Biology,Conference Room
+Math,175,306,No,Various Seating Options,Level,Maybe,Engineering,Computer Lab
+STEM,470,790000,No,Various Seating Options,Level,Yes,Administration,Classroom
+Physics,401,-557,No,Various Seating Options,Tiered,Yes,Math,Computer Lab
+Social Sciences,227,647,No,Various Seating Options,Tiered,Yes,Engineering,Event Center
+Social Sciences,227,647,No,Various Seating Options,Tiered,Yes,Engineering,Event Center
+Math,297,678,Yes,Various Seating Options,Tiered,No,Math,Study Room
+Armstrong,425,193,No,Various Seating Options,Tiered,No,Computer Science,Classroom
+Physics,410,61,Yes,Various Seating Options,Tiered,Yes,Biology,Conference Room
+Physics,164,774,No,Various Seating Options,Tiered,Yes,Math,Event Center
+Physics,443,160,No,Various Seating Options,Level,Sometimes,Biology,Event Center
+STEM,438,151,No,Various Seating Options,Level,No,Biology,Conference Room
+Chemistry,377,522,Yes,Various Seating Options,Tiered,No,Social Sciences,Event Center
+Forcina,227,28,Yes,Various Seating Options,Level,No,Computer Science,Study Room
+Armstrong,-455,321,Yes,Various Seating Options,Level,Yes,Chemistry,Study Room
+Forcina,347,278,No,Various Seating Options,Level,No,Chemistry,Study Room
+STEM,112,-256,No,Various Seating Options,Level,Occasionally,Chemistry,Computer Lab
+Social Sciences,183,629,No,Various Seating Options,Tiered,Yes,Chemistry,Conference Room
+Physics,347,652,No,Various Seating Options,Level,Yes,Biology,Study Room
+Armstrong,386,508,No,Various Seating Options,Tiered,No,Physics,Computer Lab
+Forcina,284,625,No,Various Seating Options,Tiered,No,Physics,Study Room
+Forcina,402,557,No,Various Seating Options,Tiered,Yes,Chemistry,Study Room
+Math,328,519,No,Various Seating Options,Tiered,No,Administration,Conference Room
+Math,456,186,Yes,Various Seating Options,Tiered,Maybe,Physics,Computer Lab
+Physics,235,426,No,Various Seating Options,Tiered,Yes,Social Sciences,Classroom
+Physics,165,768,Yes,Various Seating Options,Level,Yes,Administration,Classroom
+STEM,272,269,No,Various Seating Options,Level,No,Computer Science,Classroom
+Chemistry,-417,727,Yes,Various Seating Options,Level,Yes,Math,Conference Room
+BSC,161,747,No,Various Seating Options,Tiered,Yes,Chemistry,Study Room
+Forcina,360,187,No,Various Seating Options,Tiered,Yes,Social Sciences,Study Room
+Social Sciences,113,710,No,Various Seating Options,Tiered,No,Social Sciences,Classroom
+Social Sciences,384,143,Yes,Various Seating Options,Level,Yes,Physics,Computer Lab
+Social Sciences,225,618,No,Various Seating Options,Level,Yes,Computer Science,Classroom
+BSC,369,443,Yes,Various Seating Options,Level,No,Chemistry,Conference Room
+Math,289,437,Yes,Various Seating Options,Tiered,No,Biology,Classroom
+Forcina,352,120,No,Various Seating Options,Level,Yes,Biology,Classroom
+Chemistry,-382,71,Yes,Various Seating Options,Level,No,Chemistry,Conference Room
+Math,421,294,No,Various Seating Options,Tiered,No,Computer Science,Study Room
+STEM,494,541,No,Various Seating Options,Level,No,Chemistry,Conference Room
+Social Sciences,483,109,Yes,Various Seating Options,Tiered,Yes,Engineering,Conference Room
+Forcina,284,599,No,Various Seating Options,Level,Yes,Engineering,Computer Lab
+Forcina,281,476,Yes,Various Seating Options,Level,No,Math,Study Room
+Forcina,402,304,No,Various Seating Options,Tiered,Yes,Administration,Classroom
+Forcina,243,439,Yes,Various Seating Options,Tiered,Yes,Physics,Classroom
+Social Sciences,421,152,Yes,Various Seating Options,Level,No,Computer Science,Computer Lab
+Chemistry,104,196,Yes,Various Seating Options,Tiered,Yes,Math,Study Room
+BSC,207,-561,No,Various Seating Options,Level,No,Computer Science,Classroom
+BSC,309,250,Yes,Various Seating Options,Level,Yes,Social Sciences,Conference Room
+BSC,301,144,Yes,Various Seating Options,Tiered,Yes,Engineering,Study Room
+Forcina,431,26,Yes,Apple,Level,Yes,Various Seating Options,Computer Lab
+Chemistry,217,20,Yes,Various Seating Options,Level,Yes,Computer Science,Event Center

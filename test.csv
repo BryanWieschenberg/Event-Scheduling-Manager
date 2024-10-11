@@ -1,0 +1,20 @@
+--- Hackathon Schedule ---,,,,,,,,
+Building,Room,Capacity,Computers Available,Seating Available,Seating Type,Food Allowed,Priority,Room Type
+,,,,,,,,
+Opening Room - 07:00 AM to 08:00 AM,,,,,,,,
+Forcina,210,470,Maybe,Various Seating Options,Level,Yes,Math,Classroom
+,,,,,,,,
+Work Rooms - 08:00 AM to 02:00 PM,,,,,,,,
+Forcina,377,119,Yes,Various Seating Options,Tiered,No,Biology,Conference Room
+Forcina,284,599,No,Various Seating Options,Level,Yes,Engineering,Computer Lab
+,,,,,,,,
+Meal Rooms - 02:00 PM to 03:00 PM,,,,,,,,
+Forcina,377,119,Yes,Various Seating Options,Tiered,No,Biology,Conference Room
+Forcina,196,742,No,Various Seating Options,Level,No,Administration,Conference Room
+,,,,,,,,
+Work Rooms - 03:00 PM to 06:00 PM,,,,,,,,
+Forcina,377,119,Yes,Various Seating Options,Tiered,No,Biology,Conference Room
+Forcina,284,599,No,Various Seating Options,Level,Yes,Engineering,Computer Lab
+,,,,,,,,
+Closing Room - 06:00 PM to 09:00 PM,,,,,,,,
+Forcina,210,470,Maybe,Various Seating Options,Level,Yes,Math,Classroom
