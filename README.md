@@ -1,4 +1,4 @@
-# Event-Scheduling-Manager
+# Hackathon Scheduling Tool
 Created by Bryan Wieschenberg
 
 This program finds and schedules rooms for events with specific constraints, given a list of rooms and reservations. The program was originally built for creating a Hackathon schedule, but can be used for general-purpose event-scheduling.
