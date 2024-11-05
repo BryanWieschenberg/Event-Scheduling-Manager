@@ -1,4 +1,4 @@
-# Event Scheduling Manager
+# Hackathon Scheduling Tool
 
 require "csv"
 require "time"
